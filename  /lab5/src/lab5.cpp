@@ -12,6 +12,7 @@ using namespace std;
 int main() {
 	cout << "!!!Hello World!!!" << endl;
 	cout<<"hi all"<<endl;
+	cout<<"hi all"<<endl;
 	cout<<"hi all"<<endl;// prints !!!Hello World!!!
 	return 0;
 }
